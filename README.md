@@ -1,6 +1,4 @@
-#### Marina Martins Chebly
-
-## About
+## About me
 
 I research and study Political Science using quantitative methods in SQL. Currently writing my dissertation about Presidential non-budgeting Decrees and it uses to legislative and elites management. To do so, I use programming to make sure data is reliable, by webscrapping brazillian open data government website. In this jorney, I am supervised by [Professor Luis Felipe da Graça](http://lattes.cnpq.br/6866822932224749), from PPGSP-UFSC.<br>
 
