@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 ### Marina Martins Chebly
 
 _Social scientist using data tools to study Political Science. Based in Florianópolis, Brazil_ 
