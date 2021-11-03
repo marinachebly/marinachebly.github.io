@@ -1,6 +1,6 @@
-### Marina Martins Chebly
+#### Marina Martins Chebly
 
-_Social scientist using data tools to study Political Science. Based in Florianópolis, Brazil_ 
+## About
 
 I research and study Political Science using quantitative methods in SQL. Currently writing my dissertation about Presidential non-budgeting Decrees and it uses to legislative and elites management. To do so, I use programming to make sure data is reliable, by webscrapping brazillian open data government website. In this jorney, I am supervised by [Professor Luis Felipe da Graça](http://lattes.cnpq.br/6866822932224749), from PPGSP-UFSC.<br>
 
@@ -9,7 +9,7 @@ Presently working polling microdata of vote intention surveys's for several elec
 
 ## Education
 
-**MA student Political Science** at Universidade Federal de Santa Catarina <br>
+**MA in Political Science** at Universidade Federal de Santa Catarina <br>
 [PPGSP-UFSC](https://ppgsp.posgrad.ufsc.br/) - Florianópolis, Brazil _(March 2020 - Jul 2022*)_ <br>
 Dissertation title _(not official)_: Decretos Procedurais no Brasil.<br>
 Institutional e-mail: marina.chebly@posgrad.ufsc.br <br>
@@ -17,11 +17,11 @@ Institutional e-mail: marina.chebly@posgrad.ufsc.br <br>
 Data Science Bootcamp _148hrs course_ <br>
 [IGTI](https://www.igti.com.br/) - Belo Horizonte, Brazil _(May 2021 - Jul 2021)_ <br>
 
-**BA in Social Sciences** at Universidade Federal de Minas Gerais <br>
+**Bachelor in Social Sciences** at Universidade Federal de Minas Gerais <br>
 [UFMG](https://ufmg.br/cursos/graduacao/2384/91208) - Belo Horizonte, Brasil _(2013 - 2017)_ <br>
 Bachelor paper: Democracia e Partidos: implicações da confiança nos partidos na democracia brasileira.<br>
 
-## 📊 Professional experiences
+## Professional experiences
 
 **Sociology teacher** at [Escola Estadual Juscelino Kubitschek](https://novo.qedu.org.br/escola/31007901-ee-juscelino-kubitschek-de-oliveira) _(Jan 2019 - Dec 2019)_ <br>
 High School in Betim, Minas Gerais state, Brazil.
