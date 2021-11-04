@@ -1,7 +1,7 @@
 # Marina Martins Chebly
 *Social scientist using data tools to study political science*
 
-See this [CV online](https://rpubs.com/cheblymarina/830859) or <a href="Marina_Chebly_CV.pdf" download>Download .pdf</a>   
+See this [CV online](https://rpubs.com/cheblymarina/830859) or <a href="https://drive.google.com/file/d/1hXi_gsqrkQJEqzJzWESSdjX77zAsvJyl/view" download>Download .pdf</a>   
 [CV Lattes](http://lattes.cnpq.br/2613549951347731)    
 e-mail: cheblymarina@gmail.com    
 ----- 
