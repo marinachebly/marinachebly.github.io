@@ -1,24 +1,14 @@
----
-title: "</>"
-fontsize: 12pt
-date: ""
-output:
-  pdf_document: null
-  html_document:
-linkcolor: blue
-geometry: margin=2cm
----
-
 # Marina Martins Chebly
 *Social scientist using data tools to study political science*
 
-See this [CV online](https://rpubs.com/cheblymarina/830859) or in [PDF version](https://drive.google.com/file/d/1hXi_gsqrkQJEqzJzWESSdjX77zAsvJyl/view)   
+See this [CV online](https://rpubs.com/cheblymarina/830859) or <a href="Marina_Chebly_CV.pdf" download>Download .pdf</a>   
 [CV Lattes](http://lattes.cnpq.br/2613549951347731)    
 e-mail: cheblymarina@gmail.com    
------
+----- 
+
 ## About  
   
-  I research and study Political Science using quantitative methods in SQL. Currently writing my dissertation about Presidential non-budgeting Decrees and it uses to legislative and elites management. To do so, I use programming to make sure data is reliable, by webscrapping brazillian open data government website. In this jorney, I am supervised by [Professor Luis Felipe da Graça](http://lattes.cnpq.br/6866822932224749), from PPGSP-UFSC.  
+  I study Political Science using quantitative methods in SQL. Currently writing my dissertation about Presidential non-budgeting Decrees and it uses to legislative and elites management. To do so, I use programming to make sure data is reliable, by webscrapping brazillian open data government website. In this jorney, I am supervised by [Professor Luis Felipe da Graça](http://lattes.cnpq.br/6866822932224749), from PPGSP-UFSC.  
 
   Part-time working polling microdata of vote intention surveys's for several elections in Brazil and Mexico, contributing to [Professor Scott Desposatto](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/desposato-profile.html), from UCSD, research about Vote Behavior in Latin America. After a year, so far, coding every poll surveys to the last elections in both country, my ability of handle different structures of data expanded.  
   
@@ -116,5 +106,6 @@ As **Social Scientist:** Design public opinion quantitative researches *(from su
 ***
 
 *DISCLAIMER: This page contain sensitive information, please share and use it for professional purposes only.*
+
 
 
